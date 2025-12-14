@@ -8,3 +8,13 @@ local repo - local folder
 staging area - are b/w local & working dir
 working dir - just created file still no git cmds executed 
 git status - check status
+git branch - checks branches present in server
+git checkout branch "branchname" - switches to that branch 
+git checkout -b "branchname" - creates new branch
+git init - initializes git in that project
+git add . - adds all the file in staging area
+git add filename - add file to the staging area
+git commit -m "message" - commits the files in batch to the repo
+git push -u origin branchname - pushes the files to the repo
+git clone "hhtp link" - fetches the entire project into local system
+git pull origin -u branchmain  - git pull origin main fetches the latest changes from the main branch of the remote repository and merges them into the current local branch.
