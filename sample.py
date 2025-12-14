@@ -276,13 +276,28 @@ inherit = Inherit("sbi",124)
 # file.write("file sample")
 # file.close()
 
-file = open('sample.txt',mode="a") #append
-file.write("for python")
-file.close()
+# file = open('sample.txt',mode="a") #append
+# file.write("for python")
+# file.close()
 
 # file = open('sample.txt',mode="r") #read
 # print(file.read())
 # file.close()
+
+#exception handling - disturbing the execution of code = error/exception
+#try - lets you test the block of code
+#except -lets you to handle the error
+# else - lets you execute the code when no error
+# finally-lets you execute code irrespective of o/p  try and except block
+
+# try:
+#     logic
+# except:
+#     print("error")
+# else:
+#     print("no error")
+# finally:
+#     print("custom")
 
 
 
