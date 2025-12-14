@@ -1,0 +1,10 @@
+file samplefor python
+
+git - version control tool local system
+git hub - remote server system /web hsoting service for git
+repo - proj folder 
+remote repo - host on remote server
+local repo - local folder
+staging area - are b/w local & working dir
+working dir - just created file still no git cmds executed 
+git status - check status
