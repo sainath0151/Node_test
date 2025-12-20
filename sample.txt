@@ -18,3 +18,4 @@ git commit -m "message" - commits the files in batch to the repo
 git push -u origin branchname - pushes the files to the repo
 git clone "hhtp link" - fetches the entire project into local system
 git pull origin -u branchmain  - git pull origin main fetches the latest changes from the main branch of the remote repository and merges them into the current local branch.
+git diff - displays the difference  between 2 logics 
